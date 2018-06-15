@@ -316,6 +316,8 @@ header .intro-text .timeline-image {
     border: 1px solid #f1f1f1;
     border-radius: 100%;
     color: #fff;
+	display: block;
+	margin: 0 auto;
     background-color: #{{ site.data.template.color.primary }};
 }
 
