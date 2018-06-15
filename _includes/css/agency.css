@@ -314,6 +314,7 @@ header .intro-text .timeline-image {
     height: 225px;
     border: 1px solid #f1f1f1;
     border-radius: 100%;
+    margin-bottom: 25px;
     color: #fff;
 	display: block;
 	margin: 0 auto;
@@ -343,6 +344,21 @@ header .intro-text .timeline-image {
         font-weight: 700;
         line-height: 75px;
     }
+	
+	
+	header .intro-text .timeline-image {
+		width: 225px;
+		height: 225px;
+		border: 2px solid #f1f1f1;
+		border-radius: 100%;
+		margin-bottom: 25px;
+		color: #fff;
+		display: block;
+		margin: 0 auto;
+		font-weight: 700;
+		background-color: #{{ site.data.template.color.primary }};
+        margin-bottom: 50px;
+	}
 }
 
 section {
