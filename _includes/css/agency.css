@@ -318,6 +318,7 @@ header .intro-text .timeline-image {
     color: #fff;
 	display: block;
 	margin: 0 auto;
+    font-weight: 700;
     background-color: #{{ site.data.template.color.primary }};
 }
 
