@@ -279,7 +279,7 @@ header {
 }
 
 header .intro-text {
-    padding-top: 100px;
+    padding-top: 50px;
     padding-bottom: 50px;
     text-align: center;
 }
@@ -313,6 +313,7 @@ header .intro-text .intro-heading-v2 {
 header .intro-text .timeline-image {
     width: 225px;
     height: 225px;
+	left: 130px
     margin-bottom: 25px;
     border: 1px solid #f1f1f1;
     border-radius: 100%;
