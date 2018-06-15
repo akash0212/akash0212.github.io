@@ -309,7 +309,7 @@ header .intro-text .intro-heading-v2 {
     line-height: 40px;
 }
 
-header .timeline-image {
+header .intro-text .timeline-image {
     z-index: 100;
     position: absolute;
     width: 225px;
