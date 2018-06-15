@@ -280,7 +280,7 @@ header {
 
 header .intro-text {
     padding-top: 100px;
-    padding-bottom: 50px;
+    padding-bottom: 70px;
 }
 
 header .intro-text .intro-lead-in {
@@ -324,8 +324,8 @@ header .intro-text .timeline-image {
 
 @media(min-width:768px) {
     header .intro-text {
-        padding-top: 200px;
-        padding-bottom: 200px;
+        padding-top: 170px;
+        padding-bottom: 100px;
     }
 
     header .intro-text .intro-lead-in {
