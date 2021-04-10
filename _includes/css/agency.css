@@ -525,8 +525,7 @@ section h3.section-subheading {
 }
 
 .timeline>li .timeline-panel:after {
-    left: auto !important;
-    left: -14px;
+    left: auto;
     border-right-width: 14px;
     border-left-width: 0;
     position: absolute;
