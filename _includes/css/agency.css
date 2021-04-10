@@ -605,9 +605,16 @@ section h3.section-subheading {
 
     .timeline>li .timeline-panel {
         float: left;
-        width: 41%;
         padding: 0 20px 20px 30px;
         text-align: right;
+        width: 42%;
+        border: 1px solid #d4d4d4;
+        border-radius: 2px;
+        padding: 20px;
+        position: relative;
+        -webkit-box-shadow: 0 1px 6px rgb(0 0 0 / 18%);
+        box-shadow: 0 1px 6px rgb(0 0 0 / 18%);
+        padding-left: 10px !important;
     }
 
     .timeline>li .timeline-image {
