@@ -1,15 +1,15 @@
 ---
-title: Golden
-subtitle: Website Design
+title: 2nd @ Hackathon
+subtitle: 2019 - 2020
 layout: default
 modal-id: 3
-date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+date: 2019-01-10
+img: emp_year_2019_1.JPG
+thumbnail: emp_year_2019_1.JPG
 alt: image-alt
-project-date: April 2014
+project-date: October 2019
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+category: Hackathon
+description: Was awarded 2nd among ~150 proposed & developed projects(POC) held at Samsung-Delhi in the year 2019
 
 ---

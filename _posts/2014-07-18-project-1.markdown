@@ -1,6 +1,6 @@
 ---
 title: Employee of the Year
-subtitle: 2019-2020
+subtitle: 2019 - 2020
 layout: default
 modal-id: 1
 date: 2020-01-10
@@ -9,7 +9,7 @@ thumbnail: emp_year_2019_1.JPG
 alt: image-alt
 project-date: January 2020
 client: Start Bootstrap
-category: Web Development
-description: Awarded Employee of the year for Outstanding Performance for the year 2018 - 2019.
+category: Smart At Work
+description: Awarded Employee of the year for being Smart At Work for the year 2018 - 2019.
 
 ---
