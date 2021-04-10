@@ -344,7 +344,7 @@ header .intro-text .timeline-image {
         font-weight: 700;
         line-height: 75px;
     }
-	
+
 	header .intro-text .intro-heading-v2 {
 		margin-bottom: 25px;
 		text-transform: uppercase;
@@ -353,7 +353,7 @@ header .intro-text .timeline-image {
 		font-weight: 700;
 		line-height: 50px;
 	}
-	
+
 	header .intro-text .timeline-image {
 		width: 225px;
 		height: 225px;
@@ -587,6 +587,10 @@ section h3.section-subheading {
 .timeline .timeline-body>p,
 .timeline .timeline-body>ul {
     margin-bottom: 0;
+}
+
+.timeline .timeline-body>ul {
+    text-align: : left !important;
 }
 
 @media(min-width:768px) {
