@@ -525,19 +525,19 @@ section h3.section-subheading {
 }
 
 .timeline>li .timeline-panel:after {
-    right: auto;
+    left: auto !important;
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
     position: absolute;
-top: 27px;
-right: -14px;
-display: inline-block;
-border-top: 14px solid transparent;
-border-left: 14px solid #fff;
-border-right: 0 solid #fff;
-border-bottom: 14px solid transparent;
-content: " ";
+    top: 27px;
+    right: -14px;
+    display: inline-block;
+    border-top: 14px solid transparent;
+    border-left: 14px solid #6d3131;
+    border-right: 0 solid #6d3131;
+    border-bottom: 14px solid transparent;
+    content: " ";
 }
 
 .timeline>li .timeline-image {
@@ -575,9 +575,15 @@ content: " ";
 
 .timeline>li.timeline-inverted>.timeline-panel:after {
     right: auto;
-    left: -14px;
-    border-right-width: 14px;
-    border-left-width: 0;
+    position: absolute;
+    top: 27px;
+    right: -14px;
+    display: inline-block;
+    border-top: 14px solid transparent;
+    border-left: 14px solid #6d3131;
+    border-right: 0 solid #6d3131;
+    border-bottom: 14px solid transparent;
+    content: " ";
 }
 
 .timeline>li:last-child {
