@@ -985,7 +985,7 @@ body {
         }
 
         .timeline > li > .timeline-panel {
-            width: 46%;
+            width: 42%;
             float: left;
             border: 1px solid #d4d4d4;
             border-radius: 2px;
@@ -999,6 +999,7 @@ body {
                 position: absolute;
                 top: 26px;
                 right: -15px;
+                left: 477px;
                 display: inline-block;
                 border-top: 15px solid transparent;
                 border-left: 15px solid #ccc;
