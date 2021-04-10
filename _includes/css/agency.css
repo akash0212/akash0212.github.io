@@ -516,6 +516,13 @@ section h3.section-subheading {
     padding: 0 20px 0 100px;
     text-align: left;
 }
+@media (max-width: 767px)
+.timeline > li > .timeline-panel:after {
+    border-left-width: 0;
+    border-right-width: 14px;
+    left: -14px;
+    right: auto;
+}
 
 .timeline>li .timeline-panel:before {
     right: auto;
