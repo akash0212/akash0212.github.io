@@ -575,15 +575,10 @@ section h3.section-subheading {
 
 .timeline>li.timeline-inverted>.timeline-panel:after {
     right: auto;
-    position: absolute;
+    border-left-width: 0px;
+    border-right-width: 14px;
     top: 27px;
-    right: -14px;
-    display: inline-block;
-    border-top: 14px solid transparent;
-    border-left: 14px solid #6d3131;
-    border-right: 0 solid #6d3131;
-    border-bottom: 14px solid transparent;
-    content: " ";
+    left: -14px;
 }
 
 .timeline>li:last-child {
