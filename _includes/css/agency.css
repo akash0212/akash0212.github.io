@@ -529,6 +529,15 @@ section h3.section-subheading {
     left: -14px;
     border-right-width: 14px;
     border-left-width: 0;
+    position: absolute;
+top: 27px;
+right: -14px;
+display: inline-block;
+border-top: 14px solid transparent;
+border-left: 14px solid #fff;
+border-right: 0 solid #fff;
+border-bottom: 14px solid transparent;
+content: " ";
 }
 
 .timeline>li .timeline-image {
