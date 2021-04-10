@@ -837,6 +837,27 @@ ul.social-buttons li a:active {
     background-color: #{{ site.data.template.color.primary }};
 }
 
+ul.my-social-buttons li a {
+    display: block;
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    font-size: 20px;
+    line-height: 40px;
+    outline: 0;
+    color: #fff;
+    background-color: #4266B2;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    transition: all .3s;
+}
+
+ul.my-social-buttons li a:hover,
+ul.my-social-buttons li a:focus,
+ul.my-social-buttons li a:active {
+    background-color: #{{ site.data.template.color.primary }};
+}
+
 .btn:focus,
 .btn:active,
 .btn.active,
