@@ -22,14 +22,14 @@ $('body').scrollspy({
 
 $(".show-more").click(function () {
 // $(".show-more").click(function(){console.log($(".timeline-body", $(this).parent()));});
-
-    if($(".timeline-body", $(this).parent()).hasClass("show-more-height")) {
+// $(".show-more").click(function(){console.log($(".extra", $(this).parent()).addClass("sasasas"));});
+    if($(".extra", $(this).parent()).hasClass("show-more-height")) {
         $(this).text("(Show Less)");
     } else {
         $(this).text("(Show More)");
     }
 
-    $(".timeline-body", $(this).parent()).toggleClass("show-more-height");
+    $(".extra", $(this).parent()).toggleClass("show-more-height");
 });
 
 // Closes the Responsive Menu on Menu Item Click

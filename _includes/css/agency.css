@@ -1149,8 +1149,7 @@ body {
     color: #1779dd;
 }
 .timeline-panel .show-more-height {
-  height: 65px;
-  overflow:hidden;
+  display: none;
 }
 
 
