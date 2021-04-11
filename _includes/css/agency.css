@@ -129,6 +129,13 @@ fieldset[disabled] .btn-primary.active {
     color: #fff;
     background-color: #{{ site.data.template.color.primary }};
 }
+.img-circle {
+    transition: all .5s ease-in-out;
+}
+
+.img-circle:hover {
+    transform: scale(1.1);
+}
 
 .btn-xl:hover,
 .btn-xl:focus,
