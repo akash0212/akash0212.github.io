@@ -1221,7 +1221,7 @@ body {
 }
 
 .circular-chart.yellow .circle {
-  stroke: #fad149;
+  stroke: #{{ site.data.template.color.primary }};
 }
 
 .circular-chart.blue .circle {
