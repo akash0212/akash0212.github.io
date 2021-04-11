@@ -32,6 +32,19 @@ $(".show-more").click(function () {
     $(".extra", $(this).parent()).toggleClass("show-less");
 });
 
+$(".single-chart").mouseout(function(){
+    $(".circle-bg", $(this)).css("stroke-width", "3.8");
+    $(".circle", $(this)).css("stroke-width", "2.8");
+    $(".percentage", $(this)).css("font-size", "0.4em");
+});
+
+$(".single-chart").mouseover(function(){
+    $(".circle-bg", $(this)).css("stroke-width", "1.8");
+    $(".circle", $(this)).css("stroke-width", "0.8");
+    $(".circle", $(this)).removeClass("circle");
+    $(".percentage", $(this)).css("font-size", "0.45em");
+});
+
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
