@@ -1148,7 +1148,7 @@ body {
 .timeline-panel .show-more:hover {
     color: #1779dd;
 }
-.timeline-panel .show-more-height {
+.timeline-panel .show-less {
   display: none;
 }
 
