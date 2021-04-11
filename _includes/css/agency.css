@@ -130,7 +130,7 @@ fieldset[disabled] .btn-primary.active {
     background-color: #{{ site.data.template.color.primary }};
 }
 .img-circle {
-    transition: all .5s ease-in-out;
+    transition: all .2s ease-in-out;
 }
 
 .img-circle:hover {
