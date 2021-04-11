@@ -1245,6 +1245,7 @@ body {
 
 .percentage {
   fill: #666;
+  font-family: #{{ site.data.template.font.primary }};
   font-size: 0.4em;
   text-anchor: middle;
 }
