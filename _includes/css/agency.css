@@ -1209,6 +1209,10 @@ body {
   stroke: #4CC790;
 }
 
+.circular-chart.yellow .circle {
+  stroke: #fad149;
+}
+
 .circular-chart.blue .circle {
   stroke: #3c9ee5;
 }
