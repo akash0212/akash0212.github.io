@@ -1182,11 +1182,16 @@ body {
   justify-content: space-around ;
 }
 
-.single-chart:hover > .circle {
+.single-chart:hover .circle {
   stroke-width: 1.8;
 }
-.single-chart:hover > .circle-bg {
+
+.single-chart:hover .circle-bg {
   stroke-width: 2.8;
+}
+
+.single-chart:hover .percentage {
+  font-size: 0.45em;
 }
 
 
