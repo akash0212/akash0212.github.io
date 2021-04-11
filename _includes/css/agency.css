@@ -1135,6 +1135,27 @@ body {
         }
 }
 
+.timeline-panel .show-more {
+/*   width: 690px;  */
+  color: #777;
+  position:relative;
+  font-size: 12px;
+  padding-top: 5px;
+  height: 20px;
+  text-align: center;
+  background: #f1f1f1;
+  cursor: pointer;
+}
+.timeline-panel .show-more:hover {
+    color: #1779dd;
+}
+.timeline-panel .show-more-height {
+  height: 65px;
+  overflow:hidden;
+}
+
+
+
 
 /* Animate.css */
 
