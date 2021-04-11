@@ -1159,6 +1159,13 @@ body {
   flex-flow: row nowrap;
 }
 
+@media(max-width:767px) {
+  .single-chart {
+    width: 33%;
+    justify-content: space-around ;
+  }
+}
+
 .single-chart {
   width: 15%;
   justify-content: space-around ;
