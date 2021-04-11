@@ -20,6 +20,16 @@ $('body').scrollspy({
     target: '.navbar-fixed-top'
 })
 
+$(".show-more").click(function () {
+    if($(".timeline-body").hasClass("show-more-height")) {
+        $(this).text("(Show Less)");
+    } else {
+        $(this).text("(Show More)");
+    }
+
+    $(".timeline-body").toggleClass("show-more-height");
+});
+
 // Closes the Responsive Menu on Menu Item Click
 $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
