@@ -1172,6 +1172,7 @@ body {
 }
 .single-chart-caption {
   justify-content: space-around ;
+  text-align: center;
 }
 
 .circular-chart {
