@@ -1140,8 +1140,7 @@ body {
   color: #777;
   position:relative;
   font-size: 12px;
-  padding-top: 5px;
-  height: 20px;
+  padding: 5px;
   text-align: center;
   background: #f1f1f1;
   cursor: pointer;
