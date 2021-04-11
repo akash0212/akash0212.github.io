@@ -1181,6 +1181,15 @@ body {
   width: 35%;
   justify-content: space-around ;
 }
+
+.single-chart:hover > .circle {
+  stroke-width: 1.8;
+}
+.single-chart:hover > .circle-bg {
+  stroke-width: 2.8;
+}
+
+
 .single-chart-caption {
   justify-content: space-around ;
   text-align: center;
