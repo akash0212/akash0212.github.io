@@ -1161,13 +1161,16 @@ body {
 
 @media(max-width:767px) {
   .single-chart {
-    width: 33%;
+    width: 33% !important;
     justify-content: space-around ;
   }
 }
 
 .single-chart {
   width: 15%;
+  justify-content: space-around ;
+}
+.single-chart-caption {
   justify-content: space-around ;
 }
 
