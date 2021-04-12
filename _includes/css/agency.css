@@ -1206,6 +1206,7 @@ body {
 
 .single-chart:hover .circle {
   stroke-width: 1.8;
+  animation: progress 1s ease-out forwards;
 }
 
 .single-chart:hover .circle-bg {
@@ -1239,7 +1240,6 @@ body {
   fill: none;
   stroke-width: 2.8;
   stroke-linecap: round;
-  animation: progress 1s ease-out forwards;
 }
 
 
