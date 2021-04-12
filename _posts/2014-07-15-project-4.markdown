@@ -4,8 +4,8 @@ subtitle: 2020 - 2021
 layout: default
 modal-id: 4
 date: 2021-01-10
-img: emp_year_2019_1.JPG
-thumbnail: emp_year_2019_1.JPG
+img: Hackathon 2020 Akash Jain.HEIC
+thumbnail: Hackathon 2020 Akash Jain.HEIC
 alt: image-alt
 project-date: November 2019
 client: Start Bootstrap
