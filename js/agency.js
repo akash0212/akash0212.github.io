@@ -21,14 +21,11 @@ $('body').scrollspy({
 })
 
 $(".show-more").click(function () {
-// $(".show-more").click(function(){console.log($(".timeline-body", $(this).parent()));});
-// $(".show-more").click(function(){console.log($(".extra", $(this).parent()).addClass("sasasas"));});
     if($(".extra", $(this).parent()).hasClass("show-less")) {
         $(this).text("(Show Less)");
     } else {
         $(this).text("(Show More)");
     }
-
     $(".extra", $(this).parent()).toggleClass("show-less");
 });
 

@@ -3,13 +3,13 @@ title: 2nd @ Hackathon
 subtitle: 2019 - 2020
 layout: default
 modal-id: 3
-date: 2019-01-10
+date: 2019-10-10
 img: Hackathon Akash Jain 2019.jpg
 thumbnail: Hackathon Akash Jain 2019.jpg
 alt: image-alt
 project-date: October 2019
-client: Start Bootstrap
+client: Samsung(SRI-D) Hackathon
 category: Hackathon
-description: Was awarded 2nd among ~150 proposed & developed projects(POC) held at Samsung-Delhi in the year 2019
+description: During the Hackathon event held in the year 2019, Me along with my team proposed an idea for audio moderation service on TV by censoring profanity in subtitles and audio for family/kids viewing. Once this mode is turned on, the TV would automatically mute itself for the time being profanity words are sopken on the movies/TV shows being played. Due to the fast implementation of the above on-device, we were awarded 2nd among ~150 other proposed ideas/POC held at Samsung-Delhi.
 
 ---
