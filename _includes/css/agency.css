@@ -1208,6 +1208,10 @@ body {
   animation: progress 3s ease-out forwards;
 }
 
+.navbar:hover .circle {
+  animation: progress 3s ease-out forwards;
+}
+
 .single-chart:hover .circle {
   stroke-width: 1.8;
 }
