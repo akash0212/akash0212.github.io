@@ -3,7 +3,7 @@ title: Top 10 runner-up @ Hackathon
 subtitle: 2020 - 2021
 layout: default
 modal-id: 4
-date: 2021-01-10
+date: 2018-01-10
 img: Hackathon 2020 Akash Jain.jpg
 thumbnail: Hackathon 2020 Akash Jain.jpg
 alt: image-alt

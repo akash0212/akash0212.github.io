@@ -3,7 +3,7 @@ title: Project of the Year
 subtitle: 2018 - 2019
 layout: default
 modal-id: 2
-date: 2019-01-10
+date: 2021-01-09
 img: Project of the year Akash Jain.jpg
 thumbnail: Project of the year Akash Jain.jpg
 alt: image-alt
