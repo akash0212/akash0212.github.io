@@ -4,12 +4,12 @@ subtitle: 2018 - 2019
 layout: default
 modal-id: 2
 date: 2019-01-10
-img: emp_year_2019_1.JPG
-thumbnail: emp_year_2019_1.JPG
+img: Project of the year Akash Jain.jpg
+thumbnail: Project of the year Akash Jain.jpg
 alt: image-alt
 project-date: January 2019
 client: Start Bootstrap
 category: Best Successful Project
-description: Based on the overall achievements & fast progress of our project, Me along with my teammates were awarded the Project of the year during the Annual Day celebrated at Samsung-Delhi. 
+description: Based on the overall achievements & fast progress of our project, Me along with my teammates were awarded the Project of the year during the Annual Day celebrated at Samsung-Delhi.
 
 ---
