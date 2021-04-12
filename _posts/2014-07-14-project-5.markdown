@@ -8,7 +8,7 @@ img: IEEE Akash Jain 2.jpg
 thumbnail: IEEE Akash Jain 2.jpg
 alt: image-alt
 project-date: December 2015
-client: ss
+client: Manipal University
 category: IEEE
 description: During college time, me and my classmate wrote a publication on how we can use an amalgamation of simple techniques like PseudoRandom Numbers, transposition & substitution to make strong image encryption algorithm.
 
