@@ -8,7 +8,7 @@ img: Emp Year 02.jpg
 thumbnail: emp_year_2019_1.JPG
 alt: image-alt
 project-date: December 2019
-client: Samsung
+client: Samsung(SRI-D)
 category: Smart At Work
 description: Based on the achievements and smartly handling my project task as well as other POCs, was awarded Employee of the year for being "Smart At Work" for the year 2018 - 2019.
 
