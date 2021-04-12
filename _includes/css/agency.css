@@ -496,6 +496,10 @@ section h3.section-subheading {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
+
+    .portfolio-modal .close-modal{
+      position: relative;
+    }
 }
 
 .timeline {
