@@ -3,12 +3,12 @@ title: Hybrid Image Encryption
 subtitle: Publication
 layout: default
 modal-id: 5
-date: 2015-12-21
+date: 2015-12-01
 img: IEEE Akash Jain 2.jpg
 thumbnail: IEEE Akash Jain 2.jpg
 alt: image-alt
 project-date: December 2015
-client: -
+client: ss
 category: IEEE
 description: During college time, me and my classmate wrote a publication on how we can use an amalgamation of simple techniques like PseudoRandom Numbers, transposition & substitution to make strong image encryption algorithm.
 
