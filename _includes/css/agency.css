@@ -1204,9 +1204,12 @@ body {
   justify-content: space-around ;
 }
 
+#services:hover .circle {
+  animation: progress 1s ease-out forwards;
+}
+
 .single-chart:hover .circle {
   stroke-width: 1.8;
-  animation: progress 1s ease-out forwards;
 }
 
 .single-chart:hover .circle-bg {
