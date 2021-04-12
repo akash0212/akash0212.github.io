@@ -8,8 +8,8 @@ img: Hackathon 2020 Akash Jain.jpg
 thumbnail: Hackathon 2020 Akash Jain.jpg
 alt: image-alt
 project-date: November 2019
-client: Start Bootstrap
+client: Samsung(SRI-D) Hackathon
 category: Hackathon
-description: Reached top 10 finalist among ~80 proposed & developed projects(POC) held at Samsung-Delhi in the year 2020-2021
+description: Reached the grand-Finale round among ~80 proposed ideas/POC held at Samsung-Delhi for the year 2020-2021.
 
 ---
