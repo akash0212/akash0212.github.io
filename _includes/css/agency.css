@@ -545,9 +545,7 @@ section h3.section-subheading {
     left: -14px;
     right: auto;
 }
-.flex-wrapper {
-  flex-wrap: wrap;
-}
+
 
 .timeline>li .timeline-panel:before {
     right: auto;
@@ -1199,6 +1197,9 @@ body {
   .single-chart {
     width: 33% !important;
     justify-content: space-around ;
+  }
+  .flex-wrapper {
+    flex-wrap: wrap !important;
   }
 }
 
