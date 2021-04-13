@@ -545,6 +545,9 @@ section h3.section-subheading {
     left: -14px;
     right: auto;
 }
+.flex-wrapper {
+  flex-wrap: wrap;
+}
 
 .timeline>li .timeline-panel:before {
     right: auto;
