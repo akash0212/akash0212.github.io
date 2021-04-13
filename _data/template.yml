@@ -35,3 +35,14 @@ skills:
     level: 85
   - name: macOS
     level: 80
+
+
+social:
+  - name: facebook
+    url: https://www.facebook.com/akash.jain.3511
+  - name: linkedin
+    url: https://www.linkedin.com/in/akash0212/
+
+user:
+  name: Akash Jain
+  designation: Lead Software Developer
