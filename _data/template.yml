@@ -17,3 +17,21 @@ skills:
     level: 80
   - name: JAVA
     level: 60
+  - name: Javascript
+    level: 70
+  - name: C#
+    level: 60
+  - name: Xamarin
+    level: 50
+  - name: Flask
+    level: 80
+  - name: ES
+    level: 70
+  - name: AWS
+    level: 70
+  - name: Linux
+    level: 95
+  - name: Windows
+    level: 85
+  - name: macOS
+    level: 80
