@@ -1204,16 +1204,24 @@ body {
 .single-chart {
   width: 16%;
   justify-content: space-around ;
+	-webkit-transform: scale(1);
+	transform: scale(1);
+	-webkit-transition: .3s ease-in-out;
+	transition: .3s ease-in-out;
 }
 
+.single-chart:hover {
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
 
-.single-chart:hover .circle {
+/* .single-chart:hover .circle {
   stroke-width: 1.8;
 }
 
 .single-chart:hover .circle-bg {
   stroke-width: 2.8;
-}
+} */
 
 .single-chart:hover .percentage {
   font-size: 0.45em;
