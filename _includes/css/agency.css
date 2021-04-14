@@ -1211,8 +1211,6 @@ body {
 }
 
 .single-chart:hover {
-  stroke-width: 2.8;
-  stroke-width: 1.8;
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
 }
@@ -1225,9 +1223,9 @@ body {
   stroke-width: 2.8;
 } */
 
-/* .single-chart:hover .percentage {
+.single-chart:hover .percentage {
   font-size: 0.45em;
-} */
+}
 
 
 .single-chart-caption {
